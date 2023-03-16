@@ -4,7 +4,7 @@
 
 ###Propose a model that can help the general public determine a fair price for a resale flat that he/she plans to buy/sale based on data available in the url below. Note that transaction prices from as early as 1990 are available.
 
-https://data.gov.sg/dataset/resale-flat-pricesLinks to an external site.
+https://data.gov.sg/dataset/resale-flat-prices to an external site.
 
 ###Deliverables:
 
