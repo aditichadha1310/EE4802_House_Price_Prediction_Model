@@ -1,6 +1,6 @@
 # EE4802_House_Price_Prediction_Model
-
-PROBLEM STATEMENT
+ 
+## PROBLEM STATEMENT MACHINE LEARNING PROJECT
 
 Propose a model that can help the general public determine a fair price for a resale flat that he/she plans to buy/sale based on data available in the url below. Note that transaction prices from as early as 1990 are available.
 
