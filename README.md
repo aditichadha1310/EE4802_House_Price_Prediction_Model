@@ -26,6 +26,8 @@ Report guide (max 5 pages):
 =>Discussions
 
 
+NOTE :
+
 => For the data files, you may download the python notebook file and upload it to Google Colab and run the file. The files will automatically download for you.
 
 => The data files cannot be uploaded to GitHub because their size exceeds 25MB.
